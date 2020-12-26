@@ -1,0 +1,7 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciBilgi\OgrenciBilgi\bin\Debug\OgrenciBilgi.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciBilgi\OgrenciBilgi\bin\Debug\OgrenciBilgi.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciBilgi\OgrenciBilgi\bin\Debug\OgrenciBilgi.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciBilgi\OgrenciBilgi\obj\Debug\OgrenciBilgi.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciBilgi\OgrenciBilgi\obj\Debug\OgrenciBilgi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciBilgi\OgrenciBilgi\obj\Debug\OgrenciBilgi.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\OgrenciBilgi\OgrenciBilgi\obj\Debug\OgrenciBilgi.pdb
