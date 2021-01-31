@@ -1,0 +1,7 @@
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\metot\metot\obj\Debug\metot.csprojAssemblyReference.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\metot\metot\obj\Debug\metot.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\metot\metot\bin\Debug\metot.exe.config
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\metot\metot\bin\Debug\metot.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\metot\metot\bin\Debug\metot.pdb
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\metot\metot\obj\Debug\metot.exe
+C:\Users\Lenovo PC\Desktop\projelerim\c#proje\metot\metot\obj\Debug\metot.pdb
